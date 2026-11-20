@@ -3,7 +3,7 @@
 Здесь собраны мои консольные программы и практические задачи, которые я пишу во время изучения C# и Unity.
 
 ## 🛠 Технологии
-* **Язык:** ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+* **Язык:** ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=c-sharp&logoColor=white)
 * **Движок:** ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 
 ## 📂 Список проектов
