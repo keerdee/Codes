@@ -1,0 +1,21 @@
+# Папки сборки и кэша компилятора
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Скрытые папки настроек редакторов кода
+.vs/
+.idea/
+.vscode/
+
+# Пользовательские файлы Visual Studio
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Результаты тестирования и временные файлы
+TestResults/
+*.tmp
+*.temp
