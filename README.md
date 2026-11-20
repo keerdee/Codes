@@ -13,3 +13,6 @@
 * **[guess-the-number-game](./guess-the-number-game.cs)** - консольная игра суть которой заключается в подборе числа загаданного кодом.
 
 * **[calculator](./calculator.cs)** - калькулятор. да, просто калькулятор)
+
+* ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
