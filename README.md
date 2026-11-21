@@ -28,3 +28,5 @@
 ## 📂 Список проектов (Скрипты, ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white) )
 
 * **[base-player-movement2D](./player-movement2D.cs)** - первый скрипт движения для 2д персонажа в юнити.
+
+* **[music-player-helper](./music-player-helper.cs)** - скрипт не позволяющий перезагружать плеер вместе со всей сценой.
