@@ -23,7 +23,7 @@
 
 * **[guess-the-number-game](./guess-the-number-game.cs)** - консольная игра суть которой заключается в подборе числа загаданного кодом. (20.11.26)
 
-* **[calculator](./calculator.cs)** - калькулятор. да, просто калькулятор) (20.11.26)
+* **[calculator](./calculator.cs)** - калькулятор. да, просто калькулятор:) (20.11.26)
 
 ## 📂 Список проектов (Скрипты, ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white) )
 
