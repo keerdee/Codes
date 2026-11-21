@@ -17,7 +17,7 @@
 - [ ] Сделать первый стрим по разработке
 - [ ] Полностью закончить курс C#
 
-## 📂 Список проектов(Консоль, ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=c-sharp&logoColor=white) )
+## 📂 Список проектов (Консоль, ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=c-sharp&logoColor=white) )
 
 * **[boss-game](./boss-game.cs)** — пошаговая консольная игра-битва с боссом с использованием рандома и лечения.
 
