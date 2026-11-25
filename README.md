@@ -27,6 +27,8 @@
 
 * **[crit-damage-parser](./crit-damage-parser.cs)** - программка позволяющая выводить самое большое вводное значение "крита", подходящее под условие вывода. (24.11.26)
 
+* **[dungeon-game](./dungeon-game.cs)** - консольная игра, суть в прохождении данжа(нужно убить 5 врагов). (25.11.26)
+
 ## 📂 Список проектов (Скрипты, ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white) )
 
 * **[base-player-movement2D](./player-movement2D.cs)** - первый скрипт движения для 2д персонажа в юнити. (21.11.26)
